@@ -8,7 +8,7 @@ $pwd = "MvFVfDRxKS70JBaXnE9NjRP9Te3px2/QF6/9LidkHbAqUMjqozO0WKOVI2c1viwaztjrs4xK
 
 #provide drive letter to use and file share path
 $driveletter = "L"
-$sharepath = "\\akrstorage.file.core.windows.net\akrshare"
+$sharepath = "\\10.0.0.4\akrshare"
 
 #no change required below.
 #this cmd will create credentials and below script will map the drive
